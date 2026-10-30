@@ -8,7 +8,7 @@ A free, one-page portfolio site built with plain HTML/CSS/JS (no frameworks, no 
 |---|---|
 | Hero | Terminal-style intro with typing effect |
 | About | Your story, methodology, KYC-verified trust signals |
-| Stats | Real public numbers — CyberOne rank #95 / Top 1%, 96 submissions, 55.7% acceptance, Intigriti 100% valid rate + Critical Hit |
+| Stats | Real public numbers — Com Olho rank #95 / Top 1%, 96 submissions, 55.7% acceptance, Intigriti 100% valid rate + Critical Hit |
 | Skills | Disciplines (web appsec, API IDOR/BOLA, SSRF, mobile RE, network) + full toolkit |
 | Experience | Timeline — freelance bug bounty (2024–present), I2E Consulting & ISAC internships, M.Sc. NFSU, certifications |
 | Highlights | Verified achievements, Hall of Fame credits, programs (HERE Technologies, Red Bull, Sqills, Bolt.Earth) |
@@ -43,7 +43,7 @@ Open `index.html` in any text editor. Look for `<!-- EDIT: ... -->` comments —
 - **GitHub link** → Contact section (placeholder — add your URL)
 - **Stats numbers** → Stats section (keep them matching your live profiles)
 - **Tools** → Skills section chips
-- **Profile links** → Contact section includes CyberOne, Intigriti, Bugcrowd (`Kphunt0707`), HackerOne (`kphunt07`), LinkedIn (real), and Medium writeups
+- **Profile links** → Contact section includes Com Olho, Intigriti, Bugcrowd (`Kphunt0707`), HackerOne (`kphunt07`), LinkedIn (real), and Medium writeups
 
 Colors, fonts, and layout live in `assets/style.css`. Terminal/scroll effects are in `assets/main.js`.
 
