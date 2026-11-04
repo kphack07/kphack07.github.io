@@ -8,10 +8,10 @@ A free, one-page portfolio site built with plain HTML/CSS/JS (no frameworks, no 
 |---|---|
 | Hero | Terminal-style intro with typing effect |
 | About | Your story, methodology, KYC-verified trust signals |
-| Stats | Real public numbers — Com Olho rank #95 / Top 1%, 96 submissions, 55.7% acceptance, Intigriti 100% valid rate + Critical Hit |
-| Skills | Disciplines (web appsec, API IDOR/BOLA, SSRF, mobile RE, network) + full toolkit |
+| Stats | Real public numbers — Com Olho rank #95 / Top 1%, 96 submissions, 55.7% acceptance, Intigriti 100% valid rate (7 reports) |
+| Skills | Disciplines (web appsec, API IDOR/BOLA, SSRF, auth, mobile RE, network) + full toolkit |
 | Experience | Timeline — freelance bug bounty (2024–present), I2E Consulting & ISAC internships, M.Sc. NFSU, certifications |
-| Highlights | Verified achievements, Hall of Fame credits, programs (HERE Technologies, Red Bull, Sqills, Bolt.Earth) |
+| Highlights | Verified achievements — Com Olho / Intigriti stats, 10+ Hall of Fame credits, Bolt.Earth finding, writeups |
 | Contact | Email, phone, location, profile links + writeups |
 
 ## 🚀 Publish for FREE on GitHub Pages
@@ -40,10 +40,10 @@ Open `index.html` in any text editor. Look for `<!-- EDIT: ... -->` comments —
 
 - **Email / name / tagline** → `index.html` (About + Contact sections)
 - **Phone / location** → Contact section (already set from your resume)
-- **GitHub link** → Contact section (placeholder — add your URL)
+- **GitHub link** → Contact section (already set to `kphack07`)
 - **Stats numbers** → Stats section (keep them matching your live profiles)
 - **Tools** → Skills section chips
-- **Profile links** → Contact section includes Com Olho, Intigriti, Bugcrowd (`Kphunt0707`), HackerOne (`kphunt07`), LinkedIn (real), and Medium writeups
+- **Profile links** → Contact section includes Com Olho, Intigriti, Bugcrowd (`Kphunt0707`), HackerOne (`kphunt07`), GitHub (`kphack07`), LinkedIn (real), and Medium writeups
 
 Colors, fonts, and layout live in `assets/style.css`. Terminal/scroll effects are in `assets/main.js`.
 
