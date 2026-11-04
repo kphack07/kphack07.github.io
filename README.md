@@ -6,12 +6,14 @@ A free, one-page portfolio site built with plain HTML/CSS/JS (no frameworks, no 
 
 | Section | Content |
 |---|---|
-| Hero | Terminal-style intro with typing effect |
-| About | Your story, methodology, KYC-verified trust signals |
+| Hero | Terminal-style intro with typing effect + animated grid |
+| About | Your story, methodology, trust signals |
 | Stats | Real public numbers — Com Olho rank #95 / Top 1%, 96 submissions, 55.7% acceptance, Intigriti 100% valid rate (7 reports) |
-| Skills | Disciplines (web appsec, API IDOR/BOLA, SSRF, auth, mobile RE, network) + full toolkit |
-| Experience | Timeline — freelance bug bounty (2024–present), I2E Consulting & ISAC internships, M.Sc. NFSU, certifications |
-| Highlights | Verified achievements — Com Olho / Intigriti stats, 10+ Hall of Fame credits, Bolt.Earth finding, writeups |
+| Experience | Timeline — freelance bug bounty (2024–present), I2E Consulting & ISAC internships |
+| Education | M.Sc. NFSU · B.C.A. VNSGU |
+| Certifications | MCBTA · AWS Academy Graduate |
+| Projects | UNESCO 403-bypass case study · Bolt.Earth finding · multi-platform research |
+| Skills | Disciplines (web appsec, API IDOR/BOLA, SSRF, auth, AI/LLM testing, mobile RE, network) + full toolkit |
 | Contact | Email, phone, location, profile links + writeups |
 
 ## 🚀 Publish for FREE on GitHub Pages
